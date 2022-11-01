@@ -1,0 +1,170 @@
+.slider-pro {
+    font-family: 'Open Sans', Arial;
+}
+
+/* Example 1 */
+
+#example1 .sp-thumbnail {
+	width: 100%;
+	padding: 8px;
+	background-color: #F0F0F0;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#example1 .sp-thumbnail-title {
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	color: #333;
+}
+
+#example1 .sp-thumbnail-description {
+	font-size: 14px;
+	color: #333;
+}
+
+@media (max-width: 860px) {
+	#example1 .hide-medium-screen {
+		display: none;
+	}
+}
+
+@media (max-width: 640px) {
+	#example1 .sp-layer {
+		font-size: 12px;
+	}
+
+	#example1 .hide-small-screen {
+		display: none;
+	}
+}
+
+@media (max-width: 500px) {
+	#example1 .sp-thumbnail {
+		text-align: center;
+	}
+
+	#example1 .sp-thumbnail-title {
+		font-size: 12px;
+		text-transform: uppercase;
+	}
+
+	#example1 .sp-thumbnail-description {
+		display: none;
+	}
+}
+
+/* Example 3 */
+
+#example3 .sp-selected-thumbnail {
+	border: 4px solid #000;
+}
+
+/* Example 4 */
+
+#example4 .sp-slides-container {
+	background-color: #F4F4F4;
+}
+
+#example4 h3 {
+	margin: 0 0 10px 0;
+}
+
+#example4 p {
+	margin: 0 0 30px 0;
+}
+
+#example4 .sp-thumbnail-container {
+	width: 200px;
+	height: 130px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+#example4 .sp-image-text {
+	background: rgba( 80, 80, 80, 0.5 );
+	color: #FFF;
+	padding: 20px;
+}
+
+.links {
+	text-align: center;
+	margin-top: 10px;
+}
+
+/* Example 5 */
+
+#example5 .sp-thumbnail-image-container {
+	width: 100px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+}
+
+#example5 .sp-thumbnail-image {
+	height: 100%;
+}
+
+#example5 .sp-thumbnail-text {
+	width: 170px;
+    float: right;
+    padding: 8px;
+    background-color: #F0F0F0;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#example5 .sp-thumbnail-title {
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	color: #333;
+}
+
+#example5 .sp-thumbnail-description {
+	font-size: 14px;
+	color: #333;
+}
+
+@media (max-width: 500px) {
+	#example5 .sp-thumbnail {
+		text-align: center;
+	}
+
+	#example5 .sp-thumbnail-image-container {
+		display: none;
+	}
+
+	#example5 .sp-thumbnail-text {
+		width: 120px;
+	}
+
+	#example5 .sp-thumbnail-title {
+		font-size: 12px;
+		text-transform: uppercase;
+	}
+
+	#example5 .sp-thumbnail-description {
+		display: none;
+	}
+}
+/*
+     FILE ARCHIVED ON 09:57:29 Jan 11, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:58:45 Nov 01, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 127.824
+  exclusion.robots: 0.116
+  exclusion.robots.policy: 0.107
+  RedisCDXSource: 13.261
+  esindex: 0.007
+  LoadShardBlock: 91.38 (3)
+  PetaboxLoader3.datanode: 52.38 (5)
+  CDXLines.iter: 20.138 (3)
+  PetaboxLoader3.resolve: 158.681 (4)
+  load_resource: 171.231 (2)
+*/

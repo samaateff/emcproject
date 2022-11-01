@@ -1,0 +1,42 @@
+/*
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  
+=     00   00 00 00   00 00 00   00 00 00   00 00 00   00 00    =
+=     00   00    00        00    00    00   00    00   00       =
+=     00   00    00      00      00    00   00    00   00       =
+=     00   00    00    00        00    00   00    00   00       =
+=  00 00   00 00 00   00 00 00   00 00 00   00 00 00   00       =
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+*/
+
+/* Regular */
+@font-face {
+    font-family: "DroidKufi-Regular";
+    src: url('../fonts/DroidKufi-Regular.eot');
+    src: url('../fonts/DroidKufi-Regular.eot#iefix') format('embedded-opentype'),
+    url('../fonts/DroidKufi-Regular.svg#DroidKufi-Regular') format('svg'),
+    url('../fonts/DroidKufi-Regular.woff') format('woff'),
+    url('../fonts/fontawesome-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/*
+     FILE ARCHIVED ON 09:57:20 Jan 11, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:58:45 Nov 01, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 137.095
+  exclusion.robots: 0.102
+  exclusion.robots.policy: 0.095
+  cdx.remote: 0.063
+  esindex: 0.008
+  LoadShardBlock: 65.67 (3)
+  PetaboxLoader3.datanode: 86.265 (5)
+  CDXLines.iter: 17.579 (3)
+  load_resource: 243.389 (2)
+  PetaboxLoader3.resolve: 80.39 (2)
+*/
